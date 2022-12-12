@@ -13,6 +13,7 @@ this is a vite based third web app `npx thirdweb create --app`
 ## Deployed smart contract
 
 the contract is deployed in goerli - "0x755807183e30ED9D929Ca012563256e9d395Bf67"
+The app was deployed in netlify - https://frabjous-baklava-27a19b.netlify.app/
 
 ## Personal note
 
